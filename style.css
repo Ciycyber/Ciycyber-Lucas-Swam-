@@ -1,0 +1,7 @@
+#pencil {
+    color: red;
+}
+
+li:nth-child(2n){
+    color:red;
+}
